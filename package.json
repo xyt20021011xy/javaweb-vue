@@ -1,0 +1,31 @@
+{
+  "name": "vue3",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "ant-design-vue": "^4.0.0",
+    "axios": "^1.4.0",
+    "echarts": "^5.4.3",
+    "element-plus": "^2.3.8",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4",
+    "vue-echart": "^1.0.5",
+    "vue-echarts": "^6.6.1",
+    "vue-router": "^4.2.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "eslint": "8.22.0",
+    "eslint-plugin-vue": "^9.11.0",
+    "sass-loader": "^13.3.2",
+    "vite": "^4.3.9"
+  }
+}
