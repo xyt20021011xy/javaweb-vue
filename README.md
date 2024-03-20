@@ -17,7 +17,12 @@ npm run dev
 ```sh
 npm run build
 ```
-###主要截图
+### 后端地址
+```sh
+https://github.com/xyt20021011xy/JavaWeb-b
+```
+
+### 主要截图
 ![image](https://github.com/xyt20021011xy/javaweb-vue/assets/99718704/9244fdb4-d49a-4b83-be95-0f6daeb0fbdb)
 ..
 ![image](https://github.com/xyt20021011xy/javaweb-vue/assets/99718704/b2f952fa-b6fe-407e-88d0-e230ef6da3a8)
